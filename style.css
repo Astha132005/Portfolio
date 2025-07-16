@@ -200,7 +200,7 @@ header ul a:hover{
 
 /* Gradient Animation */
 .gradient{
-    background: linear-gradient(to right,#21f8f5, #900ae9, #330063, #3c4de6,#6973b4, #0099ff, #7000ad);
+    background: linear-gradient(to right,#21f8f5, #d4aeed, #af6fea, #3cb9e6,#af6fec, #0099ff, #7000ad);
     background-size: 200%;
     background-clip: text;
     -webkit-background-clip: text;
