@@ -89,12 +89,3 @@ B.Tech CSE (AIML) | Front-End Developer | UI/UX Explorer
 
 If you found this project useful or inspiring, feel free to **give it a ⭐** and share it!
 
----
-
-## 📌 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-```
-
-
